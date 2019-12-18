@@ -5,7 +5,7 @@ from random import sample
 from scipy.interpolate import interp1d
 import os
 
-DATA_DIR = '/data/hlu/data/vc_data/zhiling'
+DATA_DIR = '/data/data/vc_data/zhiling'
 LF0_MEAN_F = '/data/data/vc_data/zhiling/statistics/lf0/mean.npy'
 LF0_STD_F = '/data/data/vc_data/zhiling/statistics/lf0/std.npy'
 LPC_MEAN_F = '/data/data/vc_data/zhiling/statistics/lpc/mean.npy'
